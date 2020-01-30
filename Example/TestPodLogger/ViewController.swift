@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import TestPodLogger
 
 class ViewController: UIViewController {
 
