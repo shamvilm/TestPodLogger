@@ -1,0 +1,16 @@
+PODS:
+  - TestPodLogger (0.1.0)
+
+DEPENDENCIES:
+  - TestPodLogger (from `../`)
+
+EXTERNAL SOURCES:
+  TestPodLogger:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TestPodLogger: e64e92e49945547f2e83f5d3230d2e8c2f4a648f
+
+PODFILE CHECKSUM: 6bbfa4c30b6b2bae30e9f1cb6f27e39da2ad1a8b
+
+COCOAPODS: 1.8.4

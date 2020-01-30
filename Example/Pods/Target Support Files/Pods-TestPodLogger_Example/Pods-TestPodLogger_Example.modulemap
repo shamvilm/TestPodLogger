@@ -1,0 +1,6 @@
+framework module Pods_TestPodLogger_Example {
+  umbrella header "Pods-TestPodLogger_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

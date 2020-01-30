@@ -1,0 +1,22 @@
+{
+  "name": "TestPodLogger",
+  "version": "0.1.0",
+  "summary": "A short description of TestPodLogger.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Shamvil/TestPodLogger",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Shamvil": "shamvil@qburst.com"
+  },
+  "source": {
+    "git": "https://github.com/Shamvil/TestPodLogger.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestPodLogger/Classes/**/*"
+}

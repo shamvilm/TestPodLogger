@@ -1,0 +1,6 @@
+framework module TestPodLogger {
+  umbrella header "TestPodLogger-umbrella.h"
+
+  export *
+  module * { export * }
+}
