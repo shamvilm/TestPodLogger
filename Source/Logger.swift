@@ -8,7 +8,7 @@
 
 import UIKit
 
-class Logger {
+public class Logger {
     
     static var logFilePath = String()
     static var logFolderPath = String()

@@ -8,7 +8,7 @@
 
 import UIKit
 
-class LogService: NSObject {
+public class LogService: NSObject {
     
     public class func logError(logMessage: String, fileName: String = #file, functionName: String = #function) {
         setLogEvent(message: logMessage, logEvent: LogEvent.e.rawValue, fileName: fileName, functionName: functionName)
